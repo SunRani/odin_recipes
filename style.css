@@ -1,0 +1,31 @@
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ffff85;
+    color: #000234;
+    text-align: center;
+}
+
+.links {
+    font-size: 20px;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+.pho a:hover {
+    color: #5ef737;
+}
+
+.katsu a:hover {
+    color: #dbcaaf;
+}
+
+.birria a:hover {
+    color: #ff2122
+}
+

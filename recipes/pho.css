@@ -1,0 +1,11 @@
+#return a:link {
+    color: black;
+}
+
+#return a:visited {
+    color: black;
+}
+
+#return a:hover {
+    color: #5ef737;
+}
