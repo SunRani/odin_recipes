@@ -1,12 +1,22 @@
+.box {
+    background-color: #eee;
+    margin: 12px auto;
+    padding: 10px;
+}
+
 .title {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #ffff85;
     color: #000234;
     text-align: center;
+    padding: 8px;
+    background-color: #4e86ff;
 }
 
 .links {
     font-size: 20px;
+    margin-bottom: 16px;
+    padding: 8px;
+    background-color: #4e86ff;
 }
 
 a:link {
